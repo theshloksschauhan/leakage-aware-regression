@@ -1,0 +1,27 @@
+{
+    "id": "f2e4a793-21f6-4d44-b41c-a248bea1f09a",
+    "started_at": "2026-01-10T22:26:44.006846",
+    "finished_at": "2026-01-10T22:26:51.400922",
+    "n_total_trials": 1,
+    "stats": {
+        "n_trials": 1,
+        "n_errors": 1,
+        "evals": {
+            "oracle__adhoc": {
+                "n_trials": 0,
+                "n_errors": 1,
+                "metrics": [
+                    {
+                        "mean": 0.0
+                    }
+                ],
+                "reward_stats": {},
+                "exception_stats": {
+                    "RewardFileNotFoundError": [
+                        "leakage-aware-regression__NhSUvkD"
+                    ]
+                }
+            }
+        }
+    }
+}
